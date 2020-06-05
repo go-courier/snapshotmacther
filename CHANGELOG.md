@@ -5,6 +5,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+# [0.0.1](https://github.com/go-courier/snapshotmacther/compare/v0.0.0...v0.0.1)
+
+### Bug Fixes
+
+* **fix** match result with diffed data ([4ecd682](https://github.com/go-courier/snapshotmacther/commit/4ecd682f3793fe34f40ac8306bdded866586227c))
+
+
+
 # 0.0.0
 
 ### Features
